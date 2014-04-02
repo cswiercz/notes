@@ -1,4 +1,4 @@
 notes
 =====
 
-Types up notes on various topics.
+Typed up notes on various topics.
